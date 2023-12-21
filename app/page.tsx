@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="">
       <div className="">
-        <div>
+        <div className="flex flex-col items-center lg:flex-row bg-[#282929] dark:bg-slate-800">
           <div className="p-10 flex flex-col bg-[#282929] dark:bg-slate-800 text-white space-y-5">
             <h1 className="text-5xl font-bold">
               Welcome to DropBox
@@ -30,6 +30,15 @@ export default function Home() {
             >
               Try it for free
             </Link>
+          </div>
+          <div className="bg-[#1E19195] dark:bg-slate-800 h-full p-5">
+            <video className="rounded-lg" autoPlay loop muted>
+              <source
+                src="https://aem.dropbox.com/cms/content/dam/dropbox/warp/en-us/dash/dbx-header-blur-1920x1080.mp4"
+                type="video/mp4"
+              />
+              Your Browser does not support your video tag
+            </video>
           </div>
         </div>
         <p className="text-center font-bold text-xl pt-5">Disclaimer</p>
