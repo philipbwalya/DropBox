@@ -14,14 +14,12 @@ export default function Home() {
               place
             </h1>
             <p className="pb-20">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus
-              aliquid fugiat fugit ut at cumque molestiae dolore consectetur
-              nobis nulla earum alias ad, illo distinctio quis in atque odit
-              ullam? Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Nesciunt quidem soluta, consectetur quae animi repellendus officia
-              numquam tenetur consequuntur, voluptates, veritatis incidunt in
-              possimus laboriosam illum asperiores voluptatibus earum
-              distinctio!
+              Elevate your productivity with Dropbox: the ultimate solution for
+              storing, sharing, and collaborating on all your files. Seamlessly
+              access your data from anywhere, anytime, and experience the
+              unmatched security and reliability that sets Dropbox apart.
+              Transform the way you work and unlock the full potential of your
+              business with Dropbox at your fingertips.
             </p>
 
             <Link
