@@ -59,9 +59,15 @@ function TableWrapper({ skeletonFiles }: { skeletonFiles: FileType[] }) {
           ))}
 
           {skeletonFiles.length === 0 && (
-            <div className="flex items-center space-x-4 p-5 w-full">
-              <Skeleton className="h-12 w-12" />
-              <Skeleton className="h-12 w-full" />
+            <div>
+              <div className="flex flex-row items-center space-x-4 p-5 w-full">
+                <Skeleton className="h-12 w-12" />
+                <Skeleton className="h-12 w-full" />
+              </div>
+              <div className="flex flex-row items-center space-x-4 p-5 w-full">
+                <Skeleton className="h-12 w-12" />
+                <Skeleton className="h-12 w-full" />
+              </div>
             </div>
           )}
         </div>
