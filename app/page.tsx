@@ -14,12 +14,14 @@ export default function Home() {
               place
             </h1>
             <p className="pb-20">
-              Elevate your productivity with Dropbox: the ultimate solution for
-              storing, sharing, and collaborating on all your files. Seamlessly
-              access your data from anywhere, anytime, and experience the
-              unmatched security and reliability that sets Dropbox apart.
-              Transform the way you work and unlock the full potential of your
-              business with Dropbox at your fingertips.
+              Elevate your productivity with Next.JS Dropbox: the ultimate
+              solution for storing, sharing, and collaborating on all your files
+              with help of FIREBASE. Seamlessly access your data from anywhere,
+              anytime, and experience the unmatched security and reliability
+              that sets Clerk Authentication apart. Transform the way you work
+              and unlock the full potential of your business with Dropbox
+              replicate at your fingertips.
+              <br /> Innovation starts with you, Be the game changer.
             </p>
 
             <Link
