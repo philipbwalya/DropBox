@@ -46,8 +46,8 @@ export default function Home() {
           This video is made for informational and educational purpose only. We
           do not own or affiliate with DropBox or/and any of its subsidiaries in
           any form. Copyright Disclaimer under section 107 of the copyright Act
-          1976, allowance is made for "fair use" of this video for educational
-          purpose
+          1976, allowance is made for &quot;fair use&quot; of this video for
+          educational purpose
         </p>
       </div>
     </main>
